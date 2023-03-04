@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <Film>Девчата
+        <country>СССР</country>
+        <director>Юрий Чулюкин</director>
+        <year>1962</year>
+        <genre>мелодрама,комедия</genre>
+        <rating>8,4</rating>
+    </Film>
+    <Film>Москва слезам не верит
+        <country>СССР</country>
+        <director>Владимир Меньшов</director>
+        <year>1979</year>
+        <genre>мелодрама,драма,комедия</genre>
+        <rating>8,4</rating>
+    </Film>
+    <Film>Список Шиндлера
+        <country>США</country>
+        <director>Стивен Спилберг</director>
+        <year>1993</year>
+        <genre>драма,биография,история</genre>
+        <rating>8,8</rating>
+    </Film>
+    <Film>Престиж
+        <country>Великобритания</country>
+        <director>Кристофер Нолан</director>
+        <year>2006</year>
+        <genre>триллер,фантастика,драма</genre>
+        <rating>8,5</rating>
+    </Film>
+    <Film>Эта дурацкая любовь
+        <country>США</country>
+        <director>Гленн Фикарра</director>
+        <year>2011</year>
+        <genre>мелодрама,комедия</genre>
+        <rating>7,6</rating>
+    </Film>
+
+</catalog>
